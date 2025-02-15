@@ -1,5 +1,12 @@
 # curvenote
 
+## 0.12.6
+
+### Patch Changes
+
+- Updated dependencies [ef0537a]
+  - @curvenote/cli-plugin@0.12.6
+
 ## 0.12.5
 
 ### Patch Changes
